@@ -4,7 +4,7 @@ Bu projede, alışveriş merkezi müşterilerinin demografik bilgileri (yaş, ci
 
 ## Veri Seti
 
-Kaynak: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial  
+Kaynak: https://www.kaggle.com/code/kevinnadar22/customer-segmentation-using-dbscan
 Kullanılan dosya: Mall_Customers.csv
 
 ## Proje Aşamaları
